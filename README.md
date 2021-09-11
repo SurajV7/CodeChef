@@ -1,2 +1,2 @@
 # CodeChef
-Problem solutions of CodeChef problems in python
+Problem solutions of CodeChef problems in Python3
